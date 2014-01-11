@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_dark">#60000000</color>
+    <color name="gray_light">#a0ffffff</color>
+    <color name="gray_semi">#80808080</color>
+    <color name="high_light">#a00099cc</color>
+    <color name="holo_blue">#ff0099cc</color>
+    <color name="holo_light">#ff00ddff</color>
+    <color name="holo_semi">#800099cc</color>
+    <color name="warning">#ffcc3333</color>
+</resources>

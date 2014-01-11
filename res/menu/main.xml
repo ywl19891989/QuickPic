@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    >
+
+    <group android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/action3_sub1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_file_mode1"/>
+
+        <item
+            android:id="@+id/action3_sub2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_file_mode2"/>
+
+        <item
+            android:id="@+id/action3_sub3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_file_mode3"/>
+    </group>
+
+    <group android:checkableBehavior="all" >
+
+        <item
+            android:id="@+id/action4_sub2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/action_file_brows"/>
+    </group>
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickPic</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="action_file_mode1">层叠</string>
+    <string name="action_file_mode2">网格</string>
+    <string name="action_file_mode3">列表</string>
+    <string name="action_file_brows">文件浏览</string>
+
+    <string name="action_camera">拍照</string>
+    <string name="action_brow_mode">浏览模式</string>
+
+</resources>

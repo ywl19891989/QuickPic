@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/browse_mode"
+        android:icon="@drawable/ic_menu_gallery"
+        android:showAsAction="always"
+        style="@style/ActionButton"
+        android:title="@string/action_brow_mode">
+        <menu />
+        
+    </item>
+    
+    <item
+        android:id="@+id/camera"
+        style="@style/ActionButton"
+        android:icon="@drawable/ic_menu_camera"
+        android:showAsAction="always"
+        android:title="@string/action_camera">
+        <menu/>
+    </item>
+
+</menu>
